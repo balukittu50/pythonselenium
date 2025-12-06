@@ -16,3 +16,6 @@ print(alert.text)
 assert name in alert.text
 alert.accept()
 #alert.dismiss()
+
+
+
