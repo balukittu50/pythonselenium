@@ -4,19 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="bc232d43-5434-4e30-a61e-6de91f7e7785" name="Changes" comment="" />
+=======
+    <list default="true" id="84c92009-5c73-45c3-ac28-842c7a361abb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/gitDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitDemo.py" afterDir="false" />
+    </list>
+>>>>>>> 675f8476242c82a5996768eceea8398e64d8a33b
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+>>>>>>> 675f8476242c82a5996768eceea8398e64d8a33b
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
+<<<<<<< HEAD
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="36SdMlDevspyNH1fU6K85iIy4QK" />
+=======
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="36ScVtvHvfaMQMwf0jGrzBcxidk" />
+>>>>>>> 675f8476242c82a5996768eceea8398e64d8a33b
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,13 +49,22 @@
     "Python.gitDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+<<<<<<< HEAD
     "last_opened_file_path": "C:/Users/EXIST TECH/Gitpy",
+=======
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/EXIST TECH/Gitpy1",
+>>>>>>> 675f8476242c82a5996768eceea8398e64d8a33b
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="gitDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+<<<<<<< HEAD
       <module name="Gitpy" />
+=======
+      <module name="Gitpy1" />
+>>>>>>> 675f8476242c82a5996768eceea8398e64d8a33b
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,6 +100,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="bc232d43-5434-4e30-a61e-6de91f7e7785" name="Changes" comment="" />
       <created>1765003861297</created>
       <option name="number" value="Default" />
@@ -77,4 +109,25 @@
     </task>
     <servers />
   </component>
+=======
+      <changelist id="84c92009-5c73-45c3-ac28-842c7a361abb" name="Changes" comment="" />
+      <created>1765003439573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765003439573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+>>>>>>> 675f8476242c82a5996768eceea8398e64d8a33b
 </project>

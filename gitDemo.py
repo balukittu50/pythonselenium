@@ -10,3 +10,6 @@ print(len(a))
 
 
 print("hello")
+
+
+print("bye")
