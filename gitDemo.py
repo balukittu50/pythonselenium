@@ -5,3 +5,7 @@ print(a[0])
 
 name="krishna"
 print(len(name))
+
+
+
+print("hello")
