@@ -7,6 +7,7 @@ name="krishna"
 print(len(name))
 
 print(len(a))
+print(a)
 
 
 print("hello")
